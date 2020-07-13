@@ -9,4 +9,4 @@ typing==3.6.6
 fpdf==1.7.2
 gunicorn==20.0.4
 os-sys==2.1.4
-pywin32==228
+pywin32==224
