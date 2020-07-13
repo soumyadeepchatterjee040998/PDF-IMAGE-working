@@ -1,0 +1,10 @@
+streamlit==0.62.1
+pybase64==1.0.1
+os-sys==2.1.4
+PyPDF2==1.26.0
+simpy.io==0.2.3
+numpy==1.16.1
+PyMuPDF==1.17.3
+Pillow==7.2.0
+typing==3.6.6
+fpdf==1.7.2
