@@ -1,6 +1,6 @@
 streamlit==0.62.1
 pybase64==1.0.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 simpy.io==0.2.3
 numpy==1.16.1
 PyMuPDF==1.17.3
